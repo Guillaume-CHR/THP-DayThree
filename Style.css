@@ -1,0 +1,23 @@
+/* Style Sheet Applied to Code */
+
+@font-face {
+	font-family: "Papyrus";
+    src: url("http://db.onlinewebfonts.com/t/a0e1b1883c0cf520e9c50d0cd91cd0d0.eot");
+    src: url("http://db.onlinewebfonts.com/t/a0e1b1883c0cf520e9c50d0cd91cd0d0.eot?#iefix") format("embedded-opentype"),
+	    url("http://db.onlinewebfonts.com/t/a0e1b1883c0cf520e9c50d0cd91cd0d0.woff2") format("woff2"),
+	    url("http://db.onlinewebfonts.com/t/a0e1b1883c0cf520e9c50d0cd91cd0d0.woff") format("woff"),
+	    url("http://db.onlinewebfonts.com/t/a0e1b1883c0cf520e9c50d0cd91cd0d0.ttf") format("truetype"),
+	    url("http://db.onlinewebfonts.com/t/a0e1b1883c0cf520e9c50d0cd91cd0d0.svg#PapyrusW01") format("svg");
+}
+
+body{
+	font-family: Arial;
+	margin:40px auto;
+	max-width:650px;
+	line-height:1.6;
+	font-size:18px;
+	color:#444;
+	padding:0 10px;
+}
+
+h1,h2,h3{line-height:1.2}
